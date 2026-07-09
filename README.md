@@ -17,7 +17,8 @@ Current topics
 * ✅ Data types
 * ✅ Type conversion
 * ✅ Conditional statements
-* ⏳ Loops (currently learning)
+* ✅ Loops
+* ✅ dictionaries
 
 My goal
 
